@@ -1,0 +1,35 @@
+{
+    "name": "Skraps Club #355",
+    "description": "Skraps Club Official NFT Collection.",
+    "image": "https://raw.githubusercontent.com/skrapsclub/skrapsimages/main/images/355.webp",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "graveyard"
+        },
+        {
+            "trait_type": "type",
+            "value": "zombie mfer"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "ZombEyes"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "smile"
+        },
+        {
+            "trait_type": "headphones",
+            "value": "BlacHead"
+        },
+        {
+            "trait_type": "4:20 watch",
+            "value": "SubBlac"
+        },
+        {
+            "trait_type": "shirt",
+            "value": "CollShirTurq"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Skraps Club #3216",
+    "description": "Skraps Club Official NFT Collection.",
+    "image": "https://raw.githubusercontent.com/skrapsclub/skrapsimages/main/images/3216.webp",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue"
+        },
+        {
+            "trait_type": "type",
+            "value": "plain mfer"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "NerdGlas"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "flat"
+        },
+        {
+            "trait_type": "headphones",
+            "value": "RedHead"
+        },
+        {
+            "trait_type": "smoke",
+            "value": "CigBlac"
+        }
+    ]
+}

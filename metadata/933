@@ -1,0 +1,47 @@
+{
+    "name": "Skraps Club #933",
+    "description": "Skraps Club Official NFT Collection.",
+    "image": "https://raw.githubusercontent.com/skrapsclub/skrapsimages/main/images/933.webp",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red"
+        },
+        {
+            "trait_type": "type",
+            "value": "charcoal mfer"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "PurpShad"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "smile"
+        },
+        {
+            "trait_type": "headphones",
+            "value": "BlacHead"
+        },
+        {
+            "trait_type": "4:20 watch",
+            "value": "OystGold"
+        },
+        {
+            "trait_type": "hat under headphones",
+            "value": "HeadGreeWhit"
+        },
+        {
+            "trait_type": "shirt",
+            "value": "CollShirGree"
+        },
+        {
+            "trait_type": "smoke",
+            "value": "CigWhit"
+        },
+        {
+            "trait_type": "beard",
+            "value": "FullBear"
+        }
+    ]
+}

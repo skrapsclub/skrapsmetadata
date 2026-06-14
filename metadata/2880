@@ -1,0 +1,43 @@
+{
+    "name": "Skraps Club #2880",
+    "description": "Skraps Club Official NFT Collection.",
+    "image": "https://raw.githubusercontent.com/skrapsclub/skrapsimages/main/images/2880.webp",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green"
+        },
+        {
+            "trait_type": "type",
+            "value": "charcoal mfer"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "shades"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "smile"
+        },
+        {
+            "trait_type": "headphones",
+            "value": "WhitHead"
+        },
+        {
+            "trait_type": "4:20 watch",
+            "value": "OystSilv"
+        },
+        {
+            "trait_type": "hat under headphones",
+            "value": "BeanMono"
+        },
+        {
+            "trait_type": "shirt",
+            "value": "CollShirPink"
+        },
+        {
+            "trait_type": "smoke",
+            "value": "CigWhit"
+        }
+    ]
+}
