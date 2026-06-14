@@ -1,0 +1,11 @@
+{
+    "name": "Skraps Club #3396",
+    "description": "Skraps Club NFT Collection generated via GitHub.",
+    "image": "https://raw.githubusercontent.com/skrapsclub/skrapsimages/main/images/3396.webp",
+    "attributes": [
+        {
+            "trait_type": "1-Jan",
+            "value": "FideMfer"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Skraps Club #515",
+    "description": "Skraps Club NFT Collection generated via GitHub.",
+    "image": "https://raw.githubusercontent.com/skrapsclub/skrapsimages/main/images/515.webp",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue"
+        },
+        {
+            "trait_type": "type",
+            "value": "plain mfer"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "NerdGlas"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "flat"
+        },
+        {
+            "trait_type": "headphones",
+            "value": "WhitHead"
+        },
+        {
+            "trait_type": "4:20 watch",
+            "value": "ArgoWhit"
+        },
+        {
+            "trait_type": "shirt",
+            "value": "CollShirBlue"
+        },
+        {
+            "trait_type": "smoke",
+            "value": "CigWhit"
+        },
+        {
+            "trait_type": "long hair",
+            "value": "LongHairBlac"
+        }
+    ]
+}

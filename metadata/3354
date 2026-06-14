@@ -1,0 +1,27 @@
+{
+    "name": "Skraps Club #3354",
+    "description": "Skraps Club NFT Collection generated via GitHub.",
+    "image": "https://raw.githubusercontent.com/skrapsclub/skrapsimages/main/images/3354.webp",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "graveyard"
+        },
+        {
+            "trait_type": "type",
+            "value": "zombie mfer"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "ZombEyes"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "flat"
+        },
+        {
+            "trait_type": "headphones",
+            "value": "BlacHead"
+        }
+    ]
+}

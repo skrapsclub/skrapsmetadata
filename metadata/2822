@@ -1,0 +1,39 @@
+{
+    "name": "Skraps Club #2822",
+    "description": "Skraps Club NFT Collection generated via GitHub.",
+    "image": "https://raw.githubusercontent.com/skrapsclub/skrapsimages/main/images/2822.webp",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "graveyard"
+        },
+        {
+            "trait_type": "type",
+            "value": "zombie mfer"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "ZombEyes"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "smile"
+        },
+        {
+            "trait_type": "headphones",
+            "value": "BlacHead"
+        },
+        {
+            "trait_type": "hat under headphones",
+            "value": "KnitNewYork"
+        },
+        {
+            "trait_type": "shirt",
+            "value": "HoodDownBlue"
+        },
+        {
+            "trait_type": "smoke",
+            "value": "CigWhit"
+        }
+    ]
+}

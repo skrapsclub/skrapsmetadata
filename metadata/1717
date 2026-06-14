@@ -1,0 +1,47 @@
+{
+    "name": "Skraps Club #1717",
+    "description": "Skraps Club NFT Collection generated via GitHub.",
+    "image": "https://raw.githubusercontent.com/skrapsclub/skrapsimages/main/images/1717.webp",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue"
+        },
+        {
+            "trait_type": "type",
+            "value": "charcoal mfer"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "vr"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "smile"
+        },
+        {
+            "trait_type": "headphones",
+            "value": "WhitHead"
+        },
+        {
+            "trait_type": "hat under headphones",
+            "value": "KnitKc"
+        },
+        {
+            "trait_type": "shirt",
+            "value": "HoodDownWhit"
+        },
+        {
+            "trait_type": "smoke",
+            "value": "CigBlac"
+        },
+        {
+            "trait_type": "long hair",
+            "value": "LongHairBlac"
+        },
+        {
+            "trait_type": "beard",
+            "value": "FullBear"
+        }
+    ]
+}

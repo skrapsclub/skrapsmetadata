@@ -1,0 +1,43 @@
+{
+    "name": "Skraps Club #719",
+    "description": "Skraps Club NFT Collection generated via GitHub.",
+    "image": "https://raw.githubusercontent.com/skrapsclub/skrapsimages/main/images/719.webp",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "type",
+            "value": "plain mfer"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "ReguEyes"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "smile"
+        },
+        {
+            "trait_type": "headphones",
+            "value": "WhitHead"
+        },
+        {
+            "trait_type": "4:20 watch",
+            "value": "OystSilv"
+        },
+        {
+            "trait_type": "hat under headphones",
+            "value": "BeanMono"
+        },
+        {
+            "trait_type": "shirt",
+            "value": "CollShirGree"
+        },
+        {
+            "trait_type": "smoke",
+            "value": "CigWhit"
+        }
+    ]
+}
