@@ -21,7 +21,6 @@ def generate_metadata():
                 
             attributes = []
             for key, value in row.items():
-                # Checking if value exists, is not empty, and is not a placeholder
                 if key != 'New_ID' and value and value.strip() != '' and value.strip() != '-' and value.lower() != 'none':
                     attributes.append({
                         "trait_type": key,
@@ -30,7 +29,7 @@ def generate_metadata():
             
             metadata = {
                 "name": f"Skraps Club #{token_id}",
-                "description": "Skraps Club NFT Collection generated via GitHub.",
+                "description": "Skraps Club Official NFT Collection.",
                 "image": f"{image_base_url}{token_id}.webp",
                 "attributes": attributes
             }
