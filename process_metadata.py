@@ -16,15 +16,16 @@ def generate_metadata():
         
         for row in reader:
             token_id = row.get('New_ID')
-            if not token_id:
+            if token_id is None or token_id.strip() == '':
                 continue
                 
             attributes = []
             for key, value in row.items():
-                if key != 'New_ID' and value and value.lower() != 'none' and value != '-':
+                # Checking if value exists, is not empty, and is not a placeholder
+                if key != 'New_ID' and value and value.strip() != '' and value.strip() != '-' and value.lower() != 'none':
                     attributes.append({
                         "trait_type": key,
-                        "value": value
+                        "value": value.strip()
                     })
             
             metadata = {
@@ -34,7 +35,7 @@ def generate_metadata():
                 "attributes": attributes
             }
             
-            # File name without extensions (0, 1, 2, etc.)
+            # File without extension
             file_path = os.path.join(output_folder, str(token_id))
             with open(file_path, 'w', encoding='utf-8') as out_file:
                 json.dump(metadata, out_file, indent=4)
